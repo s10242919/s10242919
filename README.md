@@ -41,6 +41,6 @@ public class ElizabethTan:
 ![s10242919's GitHub stats](https://github-readme-stats.vercel.app/api?username=s10242919&show_icons=true)  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=s10242919)](https://github.com/anuraghazra/github-readme-stats)
 
-![footer](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&section=footer&fontSize=90&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Thank%20you%20for%20visiting!&descSize=20&descAlignY=51&descAlign=77)
+![footer](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&section=footer&fontSize=90&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Thank%20you%20for%20visiting!&descSize=20&descAlignY=51&descAlign=50)
 
 [Return to top](#top)
